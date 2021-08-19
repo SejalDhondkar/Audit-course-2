@@ -1,0 +1,12 @@
+div.card {
+    width: 250px;
+    box-shadow: 10px 10px 8px grey;
+    text-align: center;
+}
+
+div.header {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
